@@ -1,0 +1,11 @@
+C:\Users\Ryan\Desktop\IS350\Notes\InClass\bin\Debug\netcoreapp3.1\InClass.exe
+C:\Users\Ryan\Desktop\IS350\Notes\InClass\bin\Debug\netcoreapp3.1\InClass.deps.json
+C:\Users\Ryan\Desktop\IS350\Notes\InClass\bin\Debug\netcoreapp3.1\InClass.runtimeconfig.json
+C:\Users\Ryan\Desktop\IS350\Notes\InClass\bin\Debug\netcoreapp3.1\InClass.runtimeconfig.dev.json
+C:\Users\Ryan\Desktop\IS350\Notes\InClass\bin\Debug\netcoreapp3.1\InClass.dll
+C:\Users\Ryan\Desktop\IS350\Notes\InClass\bin\Debug\netcoreapp3.1\InClass.pdb
+C:\Users\Ryan\Desktop\IS350\Notes\InClass\obj\Debug\netcoreapp3.1\InClass.csprojAssemblyReference.cache
+C:\Users\Ryan\Desktop\IS350\Notes\InClass\obj\Debug\netcoreapp3.1\InClass.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\IS350\Notes\InClass\obj\Debug\netcoreapp3.1\InClass.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\IS350\Notes\InClass\obj\Debug\netcoreapp3.1\InClass.dll
+C:\Users\Ryan\Desktop\IS350\Notes\InClass\obj\Debug\netcoreapp3.1\InClass.pdb

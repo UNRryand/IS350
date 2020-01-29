@@ -1,0 +1,11 @@
+C:\Users\Ryan\Desktop\IS350\Notes\Notes\obj\Debug\netcoreapp3.1\Notes.csprojAssemblyReference.cache
+C:\Users\Ryan\Desktop\IS350\Notes\Notes\obj\Debug\netcoreapp3.1\Notes.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\IS350\Notes\Notes\obj\Debug\netcoreapp3.1\Notes.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\IS350\Notes\Notes\bin\Debug\netcoreapp3.1\Notes.exe
+C:\Users\Ryan\Desktop\IS350\Notes\Notes\bin\Debug\netcoreapp3.1\Notes.deps.json
+C:\Users\Ryan\Desktop\IS350\Notes\Notes\bin\Debug\netcoreapp3.1\Notes.runtimeconfig.json
+C:\Users\Ryan\Desktop\IS350\Notes\Notes\bin\Debug\netcoreapp3.1\Notes.runtimeconfig.dev.json
+C:\Users\Ryan\Desktop\IS350\Notes\Notes\bin\Debug\netcoreapp3.1\Notes.dll
+C:\Users\Ryan\Desktop\IS350\Notes\Notes\bin\Debug\netcoreapp3.1\Notes.pdb
+C:\Users\Ryan\Desktop\IS350\Notes\Notes\obj\Debug\netcoreapp3.1\Notes.dll
+C:\Users\Ryan\Desktop\IS350\Notes\Notes\obj\Debug\netcoreapp3.1\Notes.pdb
