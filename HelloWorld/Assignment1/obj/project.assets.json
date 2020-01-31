@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ryan\\Desktop\\IS350\\IS350\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
-      "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\Ryan\\Desktop\\IS350\\IS350\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\Ryan\\Desktop\\IS350\\IS350\\HelloWorld\\Assignment1\\Assignment1.csproj",
+      "projectName": "Assignment1",
+      "projectPath": "C:\\Users\\Ryan\\Desktop\\IS350\\IS350\\HelloWorld\\Assignment1\\Assignment1.csproj",
       "packagesPath": "C:\\Users\\Ryan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ryan\\Desktop\\IS350\\IS350\\HelloWorld\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\Ryan\\Desktop\\IS350\\IS350\\HelloWorld\\Assignment1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
