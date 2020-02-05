@@ -52,10 +52,11 @@ namespace Assignment1
 
             //outputs to user 
 
-            Console.WriteLine(""); //blank line, could also use \n in the last WriteLine();
-            Console.WriteLine("Hello {0},",Name);
+            Console.WriteLine("\nHello {0},",Name);
             Console.WriteLine("The area of the rectangle is {0}, and the perimeter is {1}",areaRec,perimRec);
             Console.WriteLine("The area of the square is {0}, and the perimeter is {1}", areaSquare,perimSquare);
+            Console.WriteLine("Press enter to continue...");
+            Console.Read();
 
             //program end
 
