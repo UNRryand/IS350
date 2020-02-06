@@ -23,15 +23,15 @@ namespace Assignment3
             string desc; //for the description later on
 
             //random generator to grab random string
-            //do this so whatever number we get, we can assingn to one of the 4 string variables we have
+            //do this so whatever number we get, we can assign to one of the 4 string variables we have
 
             Random r = new Random();
             string prompt;
             int num = r.Next(0,4); //get random integer between 0 and 3
-            Console.WriteLine(num); //for debugging
+            Console.WriteLine(num); //for debugging to make sure each value is assigned correctly
 
             //depending on the value, we assing the prompt varaible to one of the other 4 string variables
-            //assign other variables we will use 
+            //assign other variables we will use to help us verify userinput and display the description
 
             if(num == 0)
             {
