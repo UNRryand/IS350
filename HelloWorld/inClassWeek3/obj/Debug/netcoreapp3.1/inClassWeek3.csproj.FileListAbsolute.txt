@@ -1,0 +1,11 @@
+C:\Users\Ryan\Desktop\IS350\IS350\HelloWorld\inClassWeek3\bin\Debug\netcoreapp3.1\inClassWeek3.exe
+C:\Users\Ryan\Desktop\IS350\IS350\HelloWorld\inClassWeek3\bin\Debug\netcoreapp3.1\inClassWeek3.deps.json
+C:\Users\Ryan\Desktop\IS350\IS350\HelloWorld\inClassWeek3\bin\Debug\netcoreapp3.1\inClassWeek3.runtimeconfig.json
+C:\Users\Ryan\Desktop\IS350\IS350\HelloWorld\inClassWeek3\bin\Debug\netcoreapp3.1\inClassWeek3.runtimeconfig.dev.json
+C:\Users\Ryan\Desktop\IS350\IS350\HelloWorld\inClassWeek3\bin\Debug\netcoreapp3.1\inClassWeek3.dll
+C:\Users\Ryan\Desktop\IS350\IS350\HelloWorld\inClassWeek3\bin\Debug\netcoreapp3.1\inClassWeek3.pdb
+C:\Users\Ryan\Desktop\IS350\IS350\HelloWorld\inClassWeek3\obj\Debug\netcoreapp3.1\inClassWeek3.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\IS350\IS350\HelloWorld\inClassWeek3\obj\Debug\netcoreapp3.1\inClassWeek3.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\IS350\IS350\HelloWorld\inClassWeek3\obj\Debug\netcoreapp3.1\inClassWeek3.dll
+C:\Users\Ryan\Desktop\IS350\IS350\HelloWorld\inClassWeek3\obj\Debug\netcoreapp3.1\inClassWeek3.pdb
+C:\Users\Ryan\Desktop\IS350\IS350\HelloWorld\inClassWeek3\obj\Debug\netcoreapp3.1\inClassWeek3.csprojAssemblyReference.cache
