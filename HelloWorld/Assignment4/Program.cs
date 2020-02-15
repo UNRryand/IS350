@@ -186,7 +186,7 @@ Division [4]");
             {
                 Console.WriteLine("Please use the correct input when specified. Restart the program...");
             }
-            catch(Exception)
+            catch  (Exception)
             {
                 Console.WriteLine("Please do not enter a blank name. Restart the program...");
             }
