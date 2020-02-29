@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ryan\\Desktop\\IS350\\IS350\\HelloWorld\\Assignment1\\Assignment1.csproj": {}
+    "C:\\Users\\Ryan\\Documents\\GitHub\\IS350\\HelloWorld\\Assignment1\\Assignment1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ryan\\Desktop\\IS350\\IS350\\HelloWorld\\Assignment1\\Assignment1.csproj": {
+    "C:\\Users\\Ryan\\Documents\\GitHub\\IS350\\HelloWorld\\Assignment1\\Assignment1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ryan\\Desktop\\IS350\\IS350\\HelloWorld\\Assignment1\\Assignment1.csproj",
+        "projectUniqueName": "C:\\Users\\Ryan\\Documents\\GitHub\\IS350\\HelloWorld\\Assignment1\\Assignment1.csproj",
         "projectName": "Assignment1",
-        "projectPath": "C:\\Users\\Ryan\\Desktop\\IS350\\IS350\\HelloWorld\\Assignment1\\Assignment1.csproj",
+        "projectPath": "C:\\Users\\Ryan\\Documents\\GitHub\\IS350\\HelloWorld\\Assignment1\\Assignment1.csproj",
         "packagesPath": "C:\\Users\\Ryan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ryan\\Desktop\\IS350\\IS350\\HelloWorld\\Assignment1\\obj\\",
+        "outputPath": "C:\\Users\\Ryan\\Documents\\GitHub\\IS350\\HelloWorld\\Assignment1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\Ryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
