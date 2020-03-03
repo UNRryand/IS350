@@ -72,9 +72,15 @@ namespace Assignment5
                             Console.WriteLine("Current year is {0}, treasure amount is: {1}", i, tre);
                             tre = tre - 50;
                         }
+                        //we need the <= or >= if the user starts with a divisible number of 50, the last year output will not show up.
+                        if (tre <= 0 || tre >= 1000)
+                        {
+                            i++;
+                            Console.WriteLine("Current year is {0}, treasure amount is: {1}", i, tre);
+                        }
                     }
                 }
-                else
+                else if(sim == 2)
                 {
                     Console.WriteLine("How many years for the simulation?");
                     sYrs = Console.ReadLine();
@@ -93,7 +99,7 @@ namespace Assignment5
                     {
                         //format exception erorr will catch the non int.
                         iYrs = Convert.ToInt32(sYrs);
-                        for(int i = 0; i < iYrs; i++)
+                        for(int i = 0; i <= iYrs; i++)
                         {
                             rand = r.Next(0, 2);
                             if (rand == 1)
@@ -108,6 +114,10 @@ namespace Assignment5
                             }
                         }
                     }
+                }
+                else
+                {
+                    Console.WriteLine("Please enter [1] or [2] when the program asks for the scenario...restart the program!\n");
                 }
                 Console.WriteLine("Press enter to continue...");
                 Console.ReadLine();
