@@ -1,0 +1,11 @@
+C:\Users\Ryan\Desktop\IS350\IS350\HelloWorld\Assignment6\bin\Debug\netcoreapp3.1\Assignment6.exe
+C:\Users\Ryan\Desktop\IS350\IS350\HelloWorld\Assignment6\bin\Debug\netcoreapp3.1\Assignment6.deps.json
+C:\Users\Ryan\Desktop\IS350\IS350\HelloWorld\Assignment6\bin\Debug\netcoreapp3.1\Assignment6.runtimeconfig.json
+C:\Users\Ryan\Desktop\IS350\IS350\HelloWorld\Assignment6\bin\Debug\netcoreapp3.1\Assignment6.runtimeconfig.dev.json
+C:\Users\Ryan\Desktop\IS350\IS350\HelloWorld\Assignment6\bin\Debug\netcoreapp3.1\Assignment6.dll
+C:\Users\Ryan\Desktop\IS350\IS350\HelloWorld\Assignment6\bin\Debug\netcoreapp3.1\Assignment6.pdb
+C:\Users\Ryan\Desktop\IS350\IS350\HelloWorld\Assignment6\obj\Debug\netcoreapp3.1\Assignment6.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\IS350\IS350\HelloWorld\Assignment6\obj\Debug\netcoreapp3.1\Assignment6.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\IS350\IS350\HelloWorld\Assignment6\obj\Debug\netcoreapp3.1\Assignment6.dll
+C:\Users\Ryan\Desktop\IS350\IS350\HelloWorld\Assignment6\obj\Debug\netcoreapp3.1\Assignment6.pdb
+C:\Users\Ryan\Desktop\IS350\IS350\HelloWorld\Assignment6\obj\Debug\netcoreapp3.1\Assignment6.csprojAssemblyReference.cache
